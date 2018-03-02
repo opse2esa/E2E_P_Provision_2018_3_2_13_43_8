@@ -36,7 +36,7 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/E2E_P_Provision_2018_3_2_13_43_8/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+            "extendBreadcrumb": false
     },
     "fileMetadata": {},
     "template": [],
